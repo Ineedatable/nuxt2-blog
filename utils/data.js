@@ -11,9 +11,9 @@ const articleTagList = union(articleList.reduce((prev, current) => [...prev, ...
 //   knowledgeTypeList.add(item.type);
 // })
 const knowledgeTypeList = [
-  {key: 'book', name: '书籍'},
-  {key: 'film', name: '影视'},
-  {key: 'game', name: '游戏'},
+  {key: 'book', name: '隐藏书架'},
+  {key: 'film', name: '陈年旧书'},
+  {key: 'game', name: '新鲜读本'},
 ]
 
 const token = {
