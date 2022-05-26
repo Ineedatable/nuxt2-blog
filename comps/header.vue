@@ -50,7 +50,7 @@ export default {
           url: '/records'
         },
         {
-          name: '文化',
+          name: '合集',
           url: '/knowledges'
         }]
     }
